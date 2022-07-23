@@ -1,8 +1,7 @@
 ![Developer | Blogger](https://pbs.twimg.com/profile_banners/1263452104095457280/1658560241/1080x360)
 
-# Anjali Kaur.
+# Anjali Kaur
 #### Developer | Blogger
-
 
 My name is Anjali kaur. I’m a software developer from India. When I'm not coding, I'm either cooking, sleeping, or diving into my own imagination. Currently, I'm learning Javascript and I don't want to learn alone. In order to not get bored at some point, I share the things I've learned so far on the LinkedIN page.Apart from that I also write on Hashnode.
 
@@ -10,7 +9,7 @@ LinkedIN page- [Get THE CRUX](https://www.linkedin.com/company/84566367/admin/)
 
 Hashnode- [Blogs](https://anjaliblogs.hashnode.dev/)
 
- 
+ <br/>
 <img  align ="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Anjali8356&show_icons=true&theme=radical" />
 
 <img  width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anjali8356&layout=compact)](https://github.com/Anjali8356/github-readme-stats " />

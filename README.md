@@ -1,7 +1,7 @@
 ![Developer | Blogger](https://pbs.twimg.com/profile_banners/1263452104095457280/1658560241/1080x360)
 
 # Anjali Kaur
-#### Developer | Blogger
+## Developer | Blogger
 
 # 💫 About Me:
 My name is Anjali kaur. I’m a software developer from India with a particular interest in front-end development.<br><br>When I'm not coding, I'm either cooking, sleeping, or diving into my own imagination. Currently, I'm learning Javascript and I don't want to learn alone. In order to not get bored at some point, I share the things I've learned so far. Apart from that I also write on Blogs.<br><br>

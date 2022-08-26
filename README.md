@@ -1,4 +1,4 @@
-![Developer | Blogger](https://pbs.twimg.com/profile_banners/1263452104095457280/1658560241/1080x360)
+
 
 # Anjali Kaur
 ## Developer | Blogger

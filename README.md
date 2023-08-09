@@ -4,10 +4,10 @@
 ## Developer | Blogger
 
 # 💫 About Me:
-My name is Anjali kaur. I’m a software developer from India with a particular interest in front-end development.<br><br>When I'm not coding, I'm either cooking, sleeping, or diving into my own imagination.
+My name is Anjali kaur. I’m a software developer from India with a particular interest in .<br><br>When I'm not coding, I'm either cooking, sleeping, or diving into my own imagination.
 - 🔭 I’m currently working on [let's bet](https://github.com/anjlik/Let-s-Bet)
 
-- 🌱 I’m currently learning **python**
+- 🌱 I’m currently learning **Spark**
 
 - 📝 I regularly write articles on [https://anjaliblogs.hashnode.dev/](https://anjaliblogs.hashnode.dev/)
 
